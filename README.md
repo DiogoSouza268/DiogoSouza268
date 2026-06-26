@@ -1,8 +1,8 @@
-# Olá! Eu sou o [Seu Nome] 👋
+# Olá! Eu me chamo Diogo Souza 👋
 
 ### Software Developer · AWS Certified Cloud Practitioner · ADS Graduate
 
-Sou um desenvolvedor de software de 22 anos, baseado na Bahia 🇧🇷. Sou formei em **Análise e Desenvolvimento de Sistemas** pela **UNIFACS** e sou fascinado por transformar linhas de código em soluções que resolvem problemas reais.
+Sou um desenvolvedor de software 🇧🇷 de 22 anos. Sou formei em **Análise e Desenvolvimento de Sistemas** pela **UNIFACS** e sou fascinado por transformar linhas de código em soluções que resolvem problemas reais.
 
 Transito com facilidade entre o desenvolvimento de interfaces modernas (Web e Mobile) e a estruturação de regras de negócio no ecossistema backend. Além disso, possuo uma base sólida em computação em nuvem, sendo certificado oficialmente pela AWS.
 
