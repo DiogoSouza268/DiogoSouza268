@@ -1,6 +1,11 @@
+<div align="center">
+    <img src="DiogoSouza268_GIF.gif" width="400" height=250"/>
+  </a>
+</div>
+
 # Olá! Eu me chamo Diogo Souza 👋
 
-### Software Developer · AWS Certified Cloud Practitioner · ADS Graduate
+### Software Developer · ADS Graduate
 
 Sou um desenvolvedor de software 🇧🇷. Sou formado em **Análise e Desenvolvimento de Sistemas** e sou fascinado por transformar linhas de código em soluções que resolvem problemas reais.
 
